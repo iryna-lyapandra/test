@@ -2,8 +2,8 @@
  * Created by a on 10/21/2018.
  */
 public class ClassA {
-    int add (int a, int b){
-        return a+b;
+    String add (int a, int b){
+        return "a";
     }
 
     int subtract (int a, int b){
