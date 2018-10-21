@@ -1,5 +1,6 @@
 /**
  * Created by a on 10/21/2018.
  */
-public class I {
+public interface I {
+    void i();
 }
